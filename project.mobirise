@@ -327,6 +327,9 @@
             ".mbr-iconfont": {
               "font-size": "80px",
               "color": "#149dcc"
+            },
+            "H3": {
+              "text-align": "center"
             }
           },
           "_name": "counters1",
