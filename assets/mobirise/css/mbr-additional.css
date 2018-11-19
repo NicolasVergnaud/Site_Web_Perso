@@ -1775,7 +1775,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r8JSyh4t7p {
-  background: #000000;
+  background: #ffffff;
   padding-top: 45px;
   padding-bottom: 0px;
 }
@@ -1798,18 +1798,25 @@ body {
 .cid-r8J4XJMLF8 {
   padding-top: 15px;
   padding-bottom: 75px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-r8J4XJMLF8 H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-r8J4XJMLF8 .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-r8VuegRIbf {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/banniere3-1-1920x1080.png");
+  background-image: url("../../../assets/images/9bf05365687821.5b297bd8ee679-1400x990.jpg");
+}
+.cid-r8VuegRIbf H1 {
+  color: #232323;
+}
+.cid-r8VuegRIbf .mbr-text,
+.cid-r8VuegRIbf .mbr-section-btn {
+  color: #232323;
 }
 .cid-r8UZEhbW5Q {
   background-color: #ffffff;
@@ -1850,7 +1857,13 @@ body {
 .cid-r8JoaT1xC1 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/sean-mungur-441728-unsplash-1-2000x1125.jpg");
+  background-image: url("../../../assets/images/wallhaven-199737-1918x1084.png");
+}
+.cid-r8JoaT1xC1 H2 {
+  color: #232323;
+}
+.cid-r8JoaT1xC1 .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-r8J6OSf6T8 {
   padding-top: 60px;
@@ -1878,11 +1891,10 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-r8J6OSf6T8 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -1908,11 +1920,10 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
+  background: #232323 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-r8J9psi4XH {
   padding-top: 60px;
@@ -2155,4 +2166,110 @@ body {
 }
 .cid-r8VyseEIkZ H3 {
   text-align: center;
+}
+.cid-r9Nx1b2B8c {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r9Nx1b2B8c .line {
+  background-color: #f7ed4a;
+  color: #f7ed4a;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r9Nx1b2B8c .section-text {
+  padding: 2rem 0;
+}
+.cid-r9Nx1b2B8c .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r9Nx1b2B8c .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-r9NulqqmoM {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-r9NulqqmoM .image-block {
+  margin: auto;
+}
+.cid-r9NulqqmoM figcaption {
+  position: relative;
+}
+.cid-r9NulqqmoM figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r9NulqqmoM .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r9Nv3KN8YC {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r9Nv3KN8YC .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-r9NBLAWoFT {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r9NBLAWoFT .line {
+  background-color: #f7ed4a;
+  color: #f7ed4a;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r9NBLAWoFT .section-text {
+  padding: 2rem 0;
+}
+.cid-r9NBLAWoFT .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r9NBLAWoFT .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-r9NBLBP19b {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-r9NBLBP19b .image-block {
+  margin: auto;
+}
+.cid-r9NBLBP19b figcaption {
+  position: relative;
+}
+.cid-r9NBLBP19b figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r9NBLBP19b .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r9NBLCekhS {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r9NBLCekhS .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
 }
